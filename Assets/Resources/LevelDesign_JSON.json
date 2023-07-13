@@ -1,0 +1,123 @@
+[
+  {
+    "Idx": 0,
+    "StageNo": 1,
+    "StageName": "여정의시작",
+    "EnemyCnt": 5,
+    "BossCnt": 1,
+    "ClearScore": 150,
+    "ClearGold": 10,
+    "ClearDia": 5,
+    "LimitTime": 150
+  },
+  {
+    "Idx": 1,
+    "StageNo": 2,
+    "StageName": "Stage2",
+    "EnemyCnt": 6,
+    "BossCnt": 1,
+    "ClearScore": 160,
+    "ClearGold": 12,
+    "ClearDia": 6,
+    "LimitTime": 147
+  },
+  {
+    "Idx": 2,
+    "StageNo": 3,
+    "StageName": "Stage3",
+    "EnemyCnt": 7,
+    "BossCnt": 1,
+    "ClearScore": 170,
+    "ClearGold": 14,
+    "ClearDia": 7,
+    "LimitTime": 139
+  },
+  {
+    "Idx": 3,
+    "StageNo": 4,
+    "StageName": "Stage4",
+    "EnemyCnt": 9,
+    "BossCnt": 1,
+    "ClearScore": 190,
+    "ClearGold": 16,
+    "ClearDia": 9,
+    "LimitTime": 132
+  },
+  {
+    "Idx": 4,
+    "StageNo": 5,
+    "StageName": "Stage5",
+    "EnemyCnt": 11,
+    "BossCnt": 2,
+    "ClearScore": 310,
+    "ClearGold": 19,
+    "ClearDia": 11,
+    "LimitTime": 125
+  },
+  {
+    "Idx": 5,
+    "StageNo": 6,
+    "StageName": "Stage6",
+    "EnemyCnt": 14,
+    "BossCnt": 1,
+    "ClearScore": 240,
+    "ClearGold": 22,
+    "ClearDia": 14,
+    "LimitTime": 118
+  },
+  {
+    "Idx": 6,
+    "StageNo": 7,
+    "StageName": "Stage7",
+    "EnemyCnt": 18,
+    "BossCnt": 1,
+    "ClearScore": 280,
+    "ClearGold": 26,
+    "ClearDia": 18,
+    "LimitTime": 112
+  },
+  {
+    "Idx": 7,
+    "StageNo": 8,
+    "StageName": "Stage8",
+    "EnemyCnt": 23,
+    "BossCnt": 1,
+    "ClearScore": 330,
+    "ClearGold": 31,
+    "ClearDia": 23,
+    "LimitTime": 106
+  },
+  {
+    "Idx": 8,
+    "StageNo": 9,
+    "StageName": "Stage9",
+    "EnemyCnt": 29,
+    "BossCnt": 1,
+    "ClearScore": 390,
+    "ClearGold": 37,
+    "ClearDia": 29,
+    "LimitTime": 100
+  },
+  {
+    "Idx": 9,
+    "StageNo": 10,
+    "StageName": "Stage10",
+    "EnemyCnt": 37,
+    "BossCnt": 2,
+    "ClearScore": 570,
+    "ClearGold": 44,
+    "ClearDia": 37,
+    "LimitTime": 95
+  },
+  {
+    "Idx": 10,
+    "StageNo": 11,
+    "StageName": "Stage11",
+    "EnemyCnt": 48,
+    "BossCnt": 1,
+    "ClearScore": 580,
+    "ClearGold": 52,
+    "ClearDia": 48,
+    "LimitTime": 90
+  }
+]
